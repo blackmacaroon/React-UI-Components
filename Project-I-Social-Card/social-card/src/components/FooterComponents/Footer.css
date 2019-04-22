@@ -1,0 +1,11 @@
+.foots {
+      border: none;
+      padding: 20px 0;
+      display: flex;
+      flex-wrap: nowrap;
+      
+}
+
+.far, .fas {
+      margin-right: 50px;
+}
