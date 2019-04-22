@@ -5,7 +5,7 @@ import HeaderContent from './HeaderContent';
 import './Header.css';
 
 const HeaderContainer = () => {
-      return <div>
+      return <div className="top">
                   <div className="logo">
                         <ImageThumbnail />
                   </div>

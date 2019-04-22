@@ -1,1 +1,12 @@
 /* All styles for your header Components live here */
+.top {
+      display: flex;
+      flex-wrap: nowrap;
+      justify-content: space-evenly;
+     }
+     .logo {
+           padding: 10px;
+     }
+     .heado {
+           line-height: 30px;
+     }
