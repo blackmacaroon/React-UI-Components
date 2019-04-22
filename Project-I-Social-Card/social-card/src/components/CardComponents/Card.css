@@ -1,4 +1,23 @@
 /* All styles for your Card Components live here */
+.container {
+      max-width: 1200px;
+      margin: 0 20px 0 150px;
+      border: 1px solid lightgrey;
+      border-radius: 9px;
+}
+
 .pic {
       width: 100%;
+      border-top-right-radius: 9px;
+      border-top-left-radius: 9px;
+}
+
+.link {
+      color: black;
+      line-height: 20px;
+      text-decoration: none;
+}
+
+.cardContent {
+      padding: 0 20px;
 }

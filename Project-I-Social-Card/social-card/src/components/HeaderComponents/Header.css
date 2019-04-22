@@ -3,10 +3,18 @@
       display: flex;
       flex-wrap: nowrap;
       justify-content: space-evenly;
-     }
-     .logo {
-           padding: 10px;
-     }
-     .heado {
-           line-height: 30px;
-     }
+      margin: 0 20px 0 0;
+}
+
+.logo {
+      padding: 10px;
+}
+
+.heado {
+      line-height: 30px;
+}
+
+.handle {
+      font-size: 15px;
+      color: grey;
+}
