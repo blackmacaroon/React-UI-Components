@@ -8,12 +8,14 @@
 }
 
 .logo {
+      
       padding: 10px;
 }
 
 .imgThumb {
-      max-height: 60px;
+      max-width: 60px;
 }
+
 
 .heado {
       line-height: 20px;

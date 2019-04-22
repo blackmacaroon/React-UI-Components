@@ -2,7 +2,7 @@
 .container {
       font-family: 'Open Sans', sans-serif;
       max-width: 1200px;
-      margin: 0 20px 0 150px;
+      margin: 0 20px 0 80px;
       border: 1px solid lightgrey;
       border-radius: 9px;
 }
