@@ -1,5 +1,6 @@
 /* All styles for your Card Components live here */
 .container {
+      font-family: 'Open Sans', sans-serif;
       max-width: 1200px;
       margin: 0 20px 0 150px;
       border: 1px solid lightgrey;

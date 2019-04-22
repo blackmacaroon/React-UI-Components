@@ -1,5 +1,6 @@
 /* All styles for your header Components live here */
 .top {
+      font-family: 'Open Sans', sans-serif;
       display: flex;
       flex-wrap: nowrap;
       justify-content: space-evenly;
@@ -10,8 +11,12 @@
       padding: 10px;
 }
 
+.imgThumb {
+      max-height: 60px;
+}
+
 .heado {
-      line-height: 30px;
+      line-height: 20px;
 }
 
 .handle {
