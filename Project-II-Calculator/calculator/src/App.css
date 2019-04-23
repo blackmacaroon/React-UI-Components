@@ -1,0 +1,81 @@
+.calculator{
+      max-width: 500px;
+      width:100%;
+      display: flex;
+      margin: auto;
+      flex-direction: column;
+      
+  }
+  .display{
+        width: 100%;
+        padding: 25px;
+        color: white;
+        font-size: 30px;
+        background-color: black;
+        display: flex;
+        justify-content: flex-end;
+        box-sizing: border-box;
+  
+  }
+  
+  
+  .buttons {
+        display: flex;
+        flex-wrap: nowrap;
+  }
+  
+  .numStyle {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+        flex-wrap: nowrap;
+        
+  }
+  
+  .numbers {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        width:100%;
+  }
+  
+  .numericButtons {
+        width: 100%;
+  }
+  .longButton {
+        width: 100%;
+  }
+  
+  .toprow {
+        width: 100%;
+        display: flex;   
+  }
+  
+  .midrow {
+        display: flex;
+  }
+  
+  .bottomrow {
+        display: flex;
+  }
+  
+  .mathStyle {
+      
+      width: 25%;
+  }
+  
+  .actionButton{
+      width:100%;
+      padding-top:25%;
+      padding-bottom:25%;
+      background-color:red;
+      color: white;
+      font-size: 30px;
+  }
+  .numberButton{
+      padding:25px;
+      width:100%;
+      font-size: 30px;
+  }
